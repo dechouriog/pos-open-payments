@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pago al Toque</string>
+    <string name="hce_descripcion">Pago al Toque: pagar acercando el celular</string>
+    <string name="hce_aid_descripcion">Pago con el celular</string>
+</resources>

@@ -1,0 +1,7 @@
+node_modules/
+.env
+private.key
+*.key
+datos.json
+datos.json.tmp
+datos.*.json

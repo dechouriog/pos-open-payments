@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  AID propietario F0 44 41 54 41 46 4F 4E 4F = "F0" + "DATAFONO" (ISO 7816-5: prefijo F = propietario).
+  requireDeviceUnlock="true": el celular debe estar desbloqueado; además la app pide huella o bloqueo antes de responder.
+-->
+<host-apdu-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/hce_descripcion"
+    android:requireDeviceUnlock="true">
+    <aid-group
+        android:category="other"
+        android:description="@string/hce_aid_descripcion">
+        <aid-filter android:name="F044415441464F4E4F" />
+    </aid-group>
+</host-apdu-service>
