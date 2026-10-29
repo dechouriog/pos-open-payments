@@ -17,6 +17,10 @@ Una sola app Android con dos modos:
 
 Los pagos se hacen de verdad contra el **test wallet de Interledger**, con montos, monedas y permisos reales del protocolo.
 
+## Demo
+
+https://github.com/user-attachments/assets/302c87de-b5c3-4a9b-9640-7b4822c9c4c8
+
 <!--
 Capturas: guarda las imágenes en docs/capturas/ y descomenta este bloque.
 <p align="center">
