@@ -19,7 +19,9 @@ Los pagos se hacen de verdad contra el **test wallet de Interledger**, con monto
 
 ## Demo
 
-https://github.com/user-attachments/assets/302c87de-b5c3-4a9b-9640-7b4822c9c4c8
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/302c87de-b5c3-4a9b-9640-7b4822c9c4c8" width="320" controls></video>
+</p>
 
 <!--
 Capturas: guarda las imágenes en docs/capturas/ y descomenta este bloque.
